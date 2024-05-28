@@ -33,7 +33,7 @@ function Navbar() {
           <NavLink to="/cart" className="btn btn-ghost btn-circle btn-md ml-4">
             <div className="indicator">
               <BsCart3 className="h-6 w-6" />
-              <span className="badge badge-sm badge-primery indicator-item">
+              <span className="badge badge-sm badge-primery indicator-items">
                 8
               </span>
             </div>
